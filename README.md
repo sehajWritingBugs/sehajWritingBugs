@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sehaj Sahani
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on open source projects
+- 😄 Pronouns: she/her
